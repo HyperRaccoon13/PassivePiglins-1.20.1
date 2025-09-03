@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "m",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:gold_block"
+        },
+        "m": {
+            "item": "minecraft:crimson_fungus"
+        }
+    },
+    "result": {
+        "item": "passivepiglins:piglin_fortune"
+    }
+} 

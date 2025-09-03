@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.fabricmc.PassivePiglins.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PassifyPiglins"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
